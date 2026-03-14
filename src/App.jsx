@@ -7,9 +7,7 @@ import MyButton from '@components/Button/Button';
 function App() {
     return (
         <>
-            <MainLayout>
-                <MyHeader />
-            </MainLayout>
+            <MyHeader />
         </>
     );
 }
